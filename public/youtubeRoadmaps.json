@@ -1,0 +1,271 @@
+{
+  "Frontend Developer": [
+    {
+      "step": "Learn HTML & CSS",
+      "videos": [
+        {
+          "videoId": "UB1O30fR-EE",
+          "title": "HTML & CSS Full Course - Beginner to Pro",
+          "thumbnail": "https://i.ytimg.com/vi/UB1O30fR-EE/maxresdefault.jpg"
+        },
+        {
+          "videoId": "yfoY53QXEnI",
+          "title": "HTML Crash Course for Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/yfoY53QXEnI/maxresdefault.jpg"
+        },
+        {
+          "videoId": "1Rs2ND1ryYc",
+          "title": "Responsive Web Design Tutorial",
+          "thumbnail": "https://i.ytimg.com/vi/1Rs2ND1ryYc/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Master JavaScript",
+      "videos": [
+        {
+          "videoId": "PkZNo7MFNFg",
+          "title": "JavaScript Tutorial for Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/maxresdefault.jpg"
+        },
+        {
+          "videoId": "hdI2bqOjy3c",
+          "title": "JavaScript Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/hdI2bqOjy3c/maxresdefault.jpg"
+        },
+        {
+          "videoId": "jS4aFq5-91M",
+          "title": "JavaScript DOM Tutorial",
+          "thumbnail": "https://i.ytimg.com/vi/jS4aFq5-91M/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Learn Git & GitHub",
+      "videos": [
+        {
+          "videoId": "RGOj5yH7evk",
+          "title": "Git and GitHub for Beginners - Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/RGOj5yH7evk/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Dive into ReactJS",
+      "videos": [
+        {
+          "videoId": "bMknfKXIFA8",
+          "title": "React JS Full Course 2023 | Beginner to Advanced",
+          "thumbnail": "https://i.ytimg.com/vi/bMknfKXIFA8/maxresdefault.jpg"
+        },
+        {
+          "videoId": "w7ejDZ8SWv8",
+          "title": "React JS Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/w7ejDZ8SWv8/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Learn Responsive Design & Tailwind CSS",
+      "videos": [
+        {
+          "videoId": "dFgzHOX84xQ",
+          "title": "Tailwind CSS Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/dFgzHOX84xQ/maxresdefault.jpg"
+        },
+        {
+          "videoId": "1bXDFL-lHSo",
+          "title": "Build Responsive Websites with Tailwind CSS",
+          "thumbnail": "https://i.ytimg.com/vi/1bXDFL-lHSo/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Deploy with Netlify or Vercel",
+      "videos": [
+        {
+          "videoId": "J_Clau1bYco",
+          "title": "How to Deploy React App on Netlify",
+          "thumbnail": "https://i.ytimg.com/vi/J_Clau1bYco/maxresdefault.jpg"
+        },
+        {
+          "videoId": "7r4xVDI2vho",
+          "title": "How to Deploy Websites on Vercel",
+          "thumbnail": "https://i.ytimg.com/vi/7r4xVDI2vho/maxresdefault.jpg"
+        }
+      ]
+    }
+  ],
+
+  "Backend Developer": [
+    {
+      "step": "Learn Node.js & Express",
+      "videos": [
+        {
+          "videoId": "Oe421EPjeBE",
+          "title": "Node.js Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/Oe421EPjeBE/maxresdefault.jpg"
+        },
+        {
+          "videoId": "SccSCuHhOw0",
+          "title": "Express JS Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/SccSCuHhOw0/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Work with Databases",
+      "videos": [
+        {
+          "videoId": "9ylj9NR0Lcg",
+          "title": "MongoDB Full Course",
+          "thumbnail": "https://i.ytimg.com/vi/9ylj9NR0Lcg/maxresdefault.jpg"
+        },
+        {
+          "videoId": "oSIv-E60NiU",
+          "title": "PostgreSQL Full Course for Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/oSIv-E60NiU/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Learn Authentication (JWT, OAuth)",
+      "videos": [
+        {
+          "videoId": "mbsmsi7l3r4",
+          "title": "JWT Authentication Tutorial",
+          "thumbnail": "https://i.ytimg.com/vi/mbsmsi7l3r4/maxresdefault.jpg"
+        },
+        {
+          "videoId": "996OiexHze0",
+          "title": "OAuth 2.0 Simplified",
+          "thumbnail": "https://i.ytimg.com/vi/996OiexHze0/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Build & Deploy APIs",
+      "videos": [
+        {
+          "videoId": "mljcj9A_hRY",
+          "title": "Build REST APIs with Node.js",
+          "thumbnail": "https://i.ytimg.com/vi/mljcj9A_hRY/maxresdefault.jpg"
+        },
+        {
+          "videoId": "m9tRRe9wtdI",
+          "title": "Deploy Node.js API to Render",
+          "thumbnail": "https://i.ytimg.com/vi/m9tRRe9wtdI/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Docker Basics",
+      "videos": [
+        {
+          "videoId": "Gjnup-PuquQ",
+          "title": "Docker Crash Course for Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/Gjnup-PuquQ/maxresdefault.jpg"
+        },
+        {
+          "videoId": "3c-iBn73dDE",
+          "title": "Docker in 100 Seconds",
+          "thumbnail": "https://i.ytimg.com/vi/3c-iBn73dDE/maxresdefault.jpg"
+        }
+      ]
+    }
+  ],
+  "DevOps Engineer": [
+    {
+      "step": "Learn Linux Fundamentals",
+      "videos": [
+        {
+          "videoId": "ROjZy1WbCIA",
+          "title": "Linux Command Line Full Course",
+          "thumbnail": "https://i.ytimg.com/vi/ROjZy1WbCIA/maxresdefault.jpg"
+        },
+        {
+          "videoId": "t7xwKXYlHMI",
+          "title": "Linux for Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/t7xwKXYlHMI/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Master Git & GitHub",
+      "videos": [
+        {
+          "videoId": "RGOj5yH7evk",
+          "title": "Git and GitHub for Beginners - Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/RGOj5yH7evk/maxresdefault.jpg"
+        },
+        {
+          "videoId": "nhNq2kIvi9s",
+          "title": "Git Tutorial for Beginners: Command-Line Fundamentals",
+          "thumbnail": "https://i.ytimg.com/vi/nhNq2kIvi9s/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Learn Docker",
+      "videos": [
+        {
+          "videoId": "Gjnup-PuquQ",
+          "title": "Docker Crash Course for Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/Gjnup-PuquQ/maxresdefault.jpg"
+        },
+        {
+          "videoId": "3c-iBn73dDE",
+          "title": "Docker in 100 Seconds",
+          "thumbnail": "https://i.ytimg.com/vi/3c-iBn73dDE/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Learn CI/CD with Jenkins & GitHub Actions",
+      "videos": [
+        {
+          "videoId": "fxOHEB7Jp3k",
+          "title": "Jenkins Full Course - CI/CD",
+          "thumbnail": "https://i.ytimg.com/vi/fxOHEB7Jp3k/maxresdefault.jpg"
+        },
+        {
+          "videoId": "R8_veQiYBjI",
+          "title": "GitHub Actions Full Course",
+          "thumbnail": "https://i.ytimg.com/vi/R8_veQiYBjI/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Master Kubernetes Basics",
+      "videos": [
+        {
+          "videoId": "X48VuDVv0do",
+          "title": "Kubernetes Crash Course for Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/X48VuDVv0do/maxresdefault.jpg"
+        },
+        {
+          "videoId": "s_o8dwzRlu4",
+          "title": "Kubernetes in 100 Seconds",
+          "thumbnail": "https://i.ytimg.com/vi/s_o8dwzRlu4/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "step": "Learn Cloud Deployment (AWS Basics)",
+      "videos": [
+        {
+          "videoId": "ulprqHHWlng",
+          "title": "AWS Full Course - Learn AWS in 4 Hours",
+          "thumbnail": "https://i.ytimg.com/vi/ulprqHHWlng/maxresdefault.jpg"
+        },
+        {
+          "videoId": "ubCNZRNjhyo",
+          "title": "AWS Tutorial for Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/ubCNZRNjhyo/maxresdefault.jpg"
+        }
+      ]
+    }
+  ]
+
+
+}

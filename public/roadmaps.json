@@ -1,0 +1,42 @@
+{
+  "Frontend Developer": [
+    "Learn HTML & CSS",
+    "Master JavaScript (ES6+)",
+    "Understand Git & GitHub",
+    "Dive into ReactJS",
+    "Learn Responsive Design",
+    "Deploy with Vercel or Netlify"
+  ],
+  "Backend Developer": [
+    "Learn Node.js & Express",
+    "Understand REST APIs",
+    "Work with Databases",
+    "Authentication (JWT, OAuth)",
+    "Build & Deploy APIs",
+    "Docker Basics"
+  ],
+  "DevOps Engineer": [
+    "Linux & Shell Scripting",
+    "CI/CD with Jenkins or GitHub Actions",
+    "Docker & Kubernetes",
+    "AWS/GCP Basics",
+    "Monitoring & Logging",
+    "Infrastructure as Code (Terraform)"
+  ],
+  "Full Stack Developer": [
+    "Frontend + Backend Foundations",
+    "React + Node.js",
+    "Database Integration (MongoDB)",
+    "Authentication & Security",
+    "Version Control & CI/CD",
+    "Cloud Deployment"
+  ],
+  "AI/ML Engineer": [
+    "Python, NumPy, Pandas",
+    "Data Preprocessing",
+    "Scikit-learn Algorithms",
+    "Deep Learning (PyTorch/TensorFlow)",
+    "Model Evaluation",
+    "Deployment of ML Models"
+  ]
+}
